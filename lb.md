@@ -1,11 +1,11 @@
 ## Комп'ютерні системи імітаційного моделювання
-## СПм-22-11, **Іванов Іван Іванович**
+## СПм-22-5, **Бондар Олег Володимирович**
 ### Лабораторна робота №**1**. Опис імітаційних моделей та проведення обчислювальних експериментів
 
 <br>
 
-### Варіант 0, модель у середовищі NetLogo:
-[Traffic Basic](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Social%20Science/Traffic%20Basic.nlogo)
+### Варіант 3, Модель поширення захворювання у людській популяції.:
+[Traffic Basic](http://https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Virus.nlogo)
 
 <br>
 
