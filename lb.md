@@ -114,11 +114,11 @@
 <tr><th>Ймовірність одужання</th><th>% інфікованих</th><th>% несприйнятливих</th></tr>
 </thead>
 <tbody>
-<tr>20<td></td><td>35</td><td>5</td></tr>
+<tr>20<td>20</td><td>35</td><td>5</td></tr>
 <tr><td>40</td><td>30</td><td>18</td></tr>
 <tr><td>60</td><td>21</td><td>15</td></tr>
 <tr><td>80</td><td>25</td><td>20</td></tr>
-<tr><td>250</td><td>13</td><td>37</td></tr>
+<tr><td>100</td><td>13</td><td>37</td></tr>
 </tbody>
 </table>
 
